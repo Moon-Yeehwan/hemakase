@@ -40,3 +40,17 @@ DeepLab v3+, PSPNet
 이미지 세그멘테이션
 
 미용실 고객 UX 개선
+
+## ✨ 사용 예시
+
+헤마카세는 사용자가 참고 이미지를 업로드하면,  
+AI가 헤어스타일을 적용한 시뮬레이션 이미지를 생성해줍니다.
+
+### 🔹 1. 로그인 화면
+![로그인](https://raw.githubusercontent.com/Moon-Yeehwan/hemakase/main/demo_screenshot_1.png)
+
+### 🔹 2. 스타일 선택 화면
+![스타일 선택](https://raw.githubusercontent.com/Moon-Yeehwan/hemakase/main/demo_screenshot_2.png)
+
+### 🔹 3. 스타일 적용 결과
+![스타일 적용](https://raw.githubusercontent.com/Moon-Yeehwan/hemakase/main/demo_screenshot_3.png)
