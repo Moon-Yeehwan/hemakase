@@ -54,3 +54,11 @@ AI가 헤어스타일을 적용한 시뮬레이션 이미지를 생성해줍니�
 
 ### 🔹 3. 스타일 적용 결과
 ![스타일 적용](https://raw.githubusercontent.com/Moon-Yeehwan/hemakase/main/demo_screenshot_3.png)
+
+---
+
+## 📂 시연 영상 & 발표자료
+
+- 🎥 [헤마카세 시연영상](./video/헤마카세%20시연영상.mp4)
+- 📊 [헤마카세 최종 발표자료](./presentation/헤마카세%20최종.pptx)
+- 📄 [헤마카세 결과 보고서](./presentation/헤마카세%20결과%20보고서.pptx)
